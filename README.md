@@ -1,22 +1,9 @@
 asana-tests
 ===========
 
-test 1
-test 2
-test 3
-test 4
-asfd
+git config --local user.asana-key "nOxUQtn.N9gxkcFAAIMwdDBhR8B9MeY0"
 
-asdf
-asdfdf dfg
-asdf
-dfg
-dfgd
-asdf
-jhb
-asdf
-kjn
-jhglkj
-kj
-sdf
-asdf
+git config --local user.asana-project "5099250805229"
+
+git config --local user.asana-workspace "1352713227202"
+
